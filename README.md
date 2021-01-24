@@ -1,5 +1,5 @@
 # csit-207-final
-This is my Final Project for Web Programming II.
+This was my Final Project for Web Programming II. Below you can find out how to use this. You will need to be able to run a local php server, and a sql database for this.
 
 ## Step 1: Run 'make_db.php'
 Doing this creates the database, then populates it with some values.
